@@ -1,0 +1,3 @@
+make distclean
+make mx6ull_100ask_emmc_defconfig
+make
